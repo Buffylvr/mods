@@ -1,10 +1,10 @@
 Easy Animals
 
-Barns, goat barns, stables and chicken coops keep butchering even when meat, hides or tallow is full or has hit a production limit you set.
+Barns, goat barns, stables and chicken coops keep butchering even when meat, hides or tallow is full or has hit a production limit you set, so your herds stay healthy.
 
-In the base game, if any one of those items is full or limited, the herder stops processing carcasses, so no more animals get slaughtered and the herd overpopulates and gets sick. With this mod, butchering continues and any output with no room is simply discarded. Your production limits now act as a cap instead of stopping the barn.
+In the base game, if any one of those items is full or limited, the herder stops processing carcasses, so no more animals get slaughtered and the herd overpopulates and gets sick. With this mod, butchering continues and any output with no room is simply discarded. Your production limits now act as a cap instead of stopping the barn, and the misleading "cannot be butchered due to production limits" warning is removed.
 
-An in-game notification (like "livestock animals were born") tells you when items are discarded, e.g. "Storage Full - A butcher has discarded 27 Tallow." Click it to jump to the barn.
+An in-game notification (like "livestock animals were born") tells you when items are discarded, e.g. "Production Limit Reached - A butcher has discarded 27 Tallow." Click it to jump to the barn.
 
 Settings, under [EasyAnimals] in UserData/MelonPreferences.cfg:
 - ShowPopups = true|false (default true)
