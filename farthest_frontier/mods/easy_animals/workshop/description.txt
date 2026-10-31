@@ -1,0 +1,13 @@
+Easy Animals
+
+Barns, goat barns, stables and chicken coops keep butchering even when meat, hides or tallow is full or has hit a production limit you set.
+
+In the base game, if any one of those items is full or limited, the herder stops processing carcasses, so no more animals get slaughtered and the herd overpopulates and gets sick. With this mod, butchering continues and any output with no room is simply discarded. Your production limits now act as a cap instead of stopping the barn.
+
+An in-game notification (like "livestock animals were born") tells you when items are discarded, e.g. "Storage Full - A butcher has discarded 27 Tallow." Click it to jump to the barn.
+
+Settings, under [EasyAnimals] in UserData/MelonPreferences.cfg:
+- ShowPopups = true|false (default true)
+- LogDiscards = true|false (default false): also write each discard to the MelonLoader console.
+
+Requires the Mono build of Farthest Frontier (choose "Play Farthest Frontier (Mono)" in Steam). Achievements are disabled in the Mono build.

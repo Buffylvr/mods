@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>EasyAnimals</AssemblyName>
+    <RootNamespace>EasyAnimals</RootNamespace>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
